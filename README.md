@@ -1,8 +1,8 @@
 # Sesame Workshop Coding Challenge
 
-1.
+Question 1: https://jinweilin8.github.io/Sesame-Workshop/Question-One/questionOne.html
 
-2.
+Question 2:
 - To add a user, get all users, and delete a user, the URLs that will be used for each function are all “/api/users”. Since RESTful APIs locate the resources associate with user data, the endpoint will be the same for user related function.
 
 -	To add a user, front-end should provide user information object containing name, age, email etc; to get all users, front-end doesn’t need to provide any parameters and to delete a user, front-end should provide the user id.
